@@ -94,7 +94,7 @@ abstract class ApiController extends RestController{
     }
 
 
-    abstract function getSupportMethod();
+//    abstract function getSupportMethod();
 
 
 }
